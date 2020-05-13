@@ -1,11 +1,9 @@
 <?php
 
-$tekst = "hoi 1 2 3";
+$tekst = "hoi";
 
 echo $tekst;
 echo $tekst;
 echo $tekst;
 echo $tekst;
 echo $tekst;
-  
-?>
